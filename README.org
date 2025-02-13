@@ -17,6 +17,8 @@
 *** Horas: 25
 *** Alumnos: 880
 
+Deberíamos sacar el total de última
+
 * Invierno
 
 ** Reparcializado de DSI
